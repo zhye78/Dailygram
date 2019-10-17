@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--카메라 프래그먼트-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="444dp"
+            android:src="@drawable/just_say_cheese" />
+
+
+        <Button
+            android:id="@+id/btnLaunchCamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/white_rounded_button"
+            android:text="@string/string_open_camera"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

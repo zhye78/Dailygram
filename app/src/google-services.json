@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206595890557",
+    "firebase_url": "https://dailygram-shjh.firebaseio.com",
+    "project_id": "dailygram-shjh",
+    "storage_bucket": "dailygram-shjh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206595890557:android:c8ae23bb8306e46c",
+        "android_client_info": {
+          "package_name": "com.example.lee.dailygram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206595890557-9ej7uk7898qhv85hrm2kja6pm35mi6t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAJeNvAR7IiHcTuhZHOOAvJGhnaCIF7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

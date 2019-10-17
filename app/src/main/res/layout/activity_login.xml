@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="55dp"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp">
+    <!--데일리 그램 로고-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:src="@drawable/dailygram_logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="40dp" />
+    <!--이메일 입력 부분-->
+    <android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="Email"
+        android:id="@+id/input_email"/>
+</android.support.design.widget.TextInputLayout>
+    <!--비밀번호 입력부분-->
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:id="@+id/input_password"/>
+    </android.support.design.widget.TextInputLayout>
+    <!--로그인 버튼-->
+    <android.support.v7.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:text="Login"
+        android:id="@+id/btn_login"
+        android:padding="12dp"
+        android:background="@drawable/white_rounded_button"/>
+    <!-- 아이디가 없나요? 지금 만드세요! text-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="아직 아이디가 없나요? 새로 만드세요!"
+        android:gravity="center"
+        android:textSize="16dp"
+        android:id="@+id/link_signup"
+        android:textColor="@color/lightBlue"/>
+
+</LinearLayout>
+
+    <!--프로그래스 바 -->
+    <ProgressBar
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/progressbar"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="잠시만 기다려 주세요"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_alignBottom="@id/progressbar"
+        android:layout_alignRight="@id/progressbar"
+        android:layout_alignLeft="@id/progressbar"
+        android:id="@+id/pleaseWait"
+        />
+</RelativeLayout>
