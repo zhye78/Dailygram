@@ -1,5 +1,6 @@
 # Dailygram
-Firebase를 사용한 Android App
+Firebase를 사용한 Android SNS App
+'Instagram'을 모방한 학습 목적 프로젝트
 
 
 ### 주요 기능
