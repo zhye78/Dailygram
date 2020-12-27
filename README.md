@@ -53,8 +53,8 @@ Firebase를 사용한 Android SNS App
 - Realtime Database 기능으로 회원정보/ 팔로워/ 팔로잉/ 게시물/ 회원 별 게시물 저장, 관리
 
 ![데베](https://user-images.githubusercontent.com/38847724/103166961-73b66a80-486a-11eb-9fde-2cf668cbad79.PNG)
-![데이터베이스](https://user-images.githubusercontent.com/38847724/103166954-64372180-486a-11eb-997c-a24faf49927d.PNG)
-![데이터베이스2](https://user-images.githubusercontent.com/38847724/103167016-e9223b00-486a-11eb-9d36-e895c96da92d.PNG)
-![데이터베이스3](https://user-images.githubusercontent.com/38847724/103167019-f0494900-486a-11eb-823a-9c7fbf2744bd.PNG)
-![데이터베이스4](https://user-images.githubusercontent.com/38847724/103167021-f7705700-486a-11eb-8b53-f7f34c659dbe.PNG)
-![데이터베이스5](https://user-images.githubusercontent.com/38847724/103167028-fe976500-486a-11eb-8509-3f145d7311b6.PNG)
+![데이터베이스](https://user-images.githubusercontent.com/38847724/103167123-b3ca1d00-486b-11eb-8cfb-fd4b722db258.PNG)
+![데이터베이스2](https://user-images.githubusercontent.com/38847724/103167133-bcbaee80-486b-11eb-8dc8-647c5ae7105a.PNG)
+![데이터베이스3](https://user-images.githubusercontent.com/38847724/103167139-c3e1fc80-486b-11eb-9db0-d7dceeff3699.PNG)
+![데이터베이스4](https://user-images.githubusercontent.com/38847724/103167144-ca707400-486b-11eb-899a-fd882e3ffb88.PNG)
+![데이터베이스5](https://user-images.githubusercontent.com/38847724/103167145-d0feeb80-486b-11eb-97da-a46e3480df07.PNG)
