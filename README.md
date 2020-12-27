@@ -9,7 +9,7 @@ Firebase를 사용한 Android SNS App
 2. 로그인 / 로그아웃
 3. 타임라인 페이지, 업로드 페이지, 회원 검색 페이지, 내 프로필 페이지 구현
 4. 팔로워들의 게시물에 좋아요, 댓글
-5. 사진 업로드(갤러리, 카메라 접근)
+5. 게시물 업로드(갤러리, 카메라 접근)
 6. 다른 회원 검색, 팔로우
 7. 내 프로필 편집(프로필 사진, 소개 멘트 등)
 
@@ -28,7 +28,7 @@ Firebase를 사용한 Android SNS App
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/38847724/103166424-3c918a80-4865-11eb-9c35-649e2991f922.gif)
 
-- 사진 업로드
+- 게시물 업로드
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/38847724/103166498-e8d37100-4865-11eb-89c8-79b4818a2eff.gif)
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/38847724/103166509-04d71280-4866-11eb-97b1-a46c9aaf7b65.gif)
@@ -45,4 +45,12 @@ Firebase를 사용한 Android SNS App
 
 ![캡처](https://user-images.githubusercontent.com/38847724/103166865-af046980-4869-11eb-8e74-b965d1ad650f.PNG)
 
+- Storage 기능으로 각 회원이 올린 게시물 저장, 관리
+
+![캡처2](https://user-images.githubusercontent.com/38847724/103166931-45388f80-486a-11eb-8955-5d1032c95175.PNG)
+![스토리지](https://user-images.githubusercontent.com/38847724/103166951-5bdee680-486a-11eb-927a-f2ff778fa086.PNG)
+
+- Realtime Database 기능으로 회원정보/ 팔로워/ 팔로잉/ 게시물/ 회원 별 게시물 저장, 관리
+
+![데베](https://user-images.githubusercontent.com/38847724/103166961-73b66a80-486a-11eb-9fde-2cf668cbad79.PNG)
 
