@@ -14,7 +14,7 @@ Firebase를 사용한 Android SNS App
 7. 내 프로필 편집(프로필 사진, 소개 멘트 등)
 
 
-### App Play GIF
+## App Play GIF
 
 - 로그인
 
@@ -39,7 +39,7 @@ Firebase를 사용한 Android SNS App
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/38847724/103166571-be35e800-4866-11eb-9153-daa52ef68a5c.gif)
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/38847724/103166573-c5f58c80-4866-11eb-823d-5e24e12b8e15.gif)
 
-### Firebase 서버 캡쳐 이미지
+## Firebase 서버 캡쳐 이미지
 
 - Authentication 기능으로 회원 정보 저장, 관리
 
