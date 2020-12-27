@@ -11,6 +11,4 @@ Firebase를 사용한 Android App
 7. 내 프로필 편집(프로필 사진, 소개 멘트 등)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/38847724/103166384-c7be5080-4864-11eb-9dd7-ba1e85f66d25.gif)
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/38847724/103166404-02c08400-4865-11eb-95d5-e2ec6c181581.gif)
-
