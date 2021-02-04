@@ -4,7 +4,7 @@ Google의 Firebase를 사용한 Android SNS App
 'Instagram'을 모방한 학습 목적 프로젝트
 
 
-### 주요 기능
+## 주요 기능
 1. 회원 가입(가입 시 이메일 인증 기능 포함)
 2. 로그인 / 로그아웃
 3. 타임라인 페이지, 업로드 페이지, 회원 검색 페이지, 내 프로필 페이지 구현
@@ -38,6 +38,7 @@ Google의 Firebase를 사용한 Android SNS App
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/38847724/103166565-b24a2600-4866-11eb-86f2-259dcf840480.gif)
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/38847724/103166571-be35e800-4866-11eb-9153-daa52ef68a5c.gif)
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/38847724/103166573-c5f58c80-4866-11eb-823d-5e24e12b8e15.gif)
+
 
 ## Firebase 서버 캡쳐 이미지
 
